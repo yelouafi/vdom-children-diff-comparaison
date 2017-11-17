@@ -1,0 +1,24 @@
+{
+  "name": "children-diff-comparaison",
+  "description": null,
+  "version": "0.0.302",
+  "dependencies": {
+    "snabbdom": "0.6.9",
+    "react-dom": "16.0.0-beta.3",
+    "react": "16.0.0-beta.3",
+    "preact": "8.2.1",
+    "petit-dom": "0.0.9",
+    "inferno-create-element": "3.7.0",
+    "inferno-component": "3.7.0",
+    "inferno": "3.7.0"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
